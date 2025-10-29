@@ -71,4 +71,3 @@ We Also show the most common words of each article in the gui. Made by Grayson
 Additionally we added functionallity to count how many stop words get removed. Made by Austin
 
 UML Class Diagram Updated and screenshot of testing added.
-
