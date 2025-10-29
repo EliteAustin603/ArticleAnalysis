@@ -51,3 +51,24 @@ Additionally both Robert and Grayson helped find the articles to be used as well
 UML Class Diagram saved in the git as well
 
 
+Milestone 2 completed:
+wordanalysisgui added which allows users to select the article they want to find data on then run analysis. One of the biggest changes we made was using the lexicon file to find the scores of every word to calculate the sentiment. 
+
+Inside the wordanalysis.java file we added many new methods:
+
+mostCommonWord() finds the most common word in each article made by Grayson
+
+getNumPositiveWords() find how many words after stopwords have been removed that have a positive sentiment value Made by Austin
+
+getNumNegativeWords() find how many words after stopwords have been removed that have a negative sentiment value Made by Austin
+
+getSentimentScore() compares the total score of sentiment vs the number of words in the article to get a overall score made by Austin
+
+in the wordanalysisgui.java file we added functionallity to calculate the average word length of the article to find out which uses the richest vocabulary made by Grayson
+
+We Also show the most common words of each article in the gui. Made by Grayson
+
+Additionally we added functionallity to count how many stop words get removed. Made by Austin
+
+UML Class Diagram Updated and screenshot of testing added.
+
