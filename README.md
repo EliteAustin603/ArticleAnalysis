@@ -80,3 +80,5 @@ updated test screenshot by Robert
 
 updated uml class diagram by Grayson
 
+Overall, I think our code is pretty good quality. evreything works as intended and is easy to understand for users. Additionally, we stress tested the gui to make it ressiliant. To improve the code we could use lambda functions to make a more efficient program and maybe improve the gui.
+
