@@ -97,7 +97,7 @@ public class wordanalysisgui {
 
                
                 String data[][]={{"Number of Words",numwords1,numwords2,numwords3},
-                               {"Number of Unique Words",analysis1.numberOfWords()+"",analysis2.numberOfWords()+"",analysis3.numberOfWords()+""},
+                               {"Number of Unique Words",analysis1.getArticle().getWordList().size()+"",analysis2.getArticle().getWordList().size()+"",analysis3.getArticle().getWordList().size()+""},
                                {"Most Common Word",analysis1.mostCommonWord(),analysis2.mostCommonWord(),analysis3.mostCommonWord()},
                                {"Average Word Length",""+avg1,""+avg2,""+avg3},
                                {"Number of stop words removed",""+analysis1.removeStopWords(),""+analysis2.removeStopWords(),""+analysis3.removeStopWords()},
