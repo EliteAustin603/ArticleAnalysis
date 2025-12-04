@@ -71,3 +71,12 @@ We Also show the most common words of each article in the gui. Made by Grayson
 Additionally we added functionallity to count how many stop words get removed. Made by Austin
 
 UML Class Diagram Updated and screenshot of testing added.
+
+Milestone 3 Completed:
+
+updated wordanalysigui.java to fix uniuqe words problem. By Austin 
+
+updated test screenshot by Robert
+
+updated uml class diagram by Grayson
+
